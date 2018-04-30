@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import CustomWrapper from '../../hoc/CustomWrapper';
 import Burger from '../../components/Burger/Burger';
-import BuildControls from '../Burger/BuildControls/BuildControls';
+import BuildControls from '../../components/Burger/BuildControls/BuildControls';
 
 class BurgerBuilder extends Component {
 
