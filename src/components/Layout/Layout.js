@@ -1,6 +1,6 @@
 
 import React, {Component} from 'react';
-import CustomWrapper from '../../hoc/CustomWrapper';
+import CustomWrapper from '../../hoc/CustomWrapper/CustomWrapper';
 import Toolbar from '../Navigation/Toolbar/Toolbar';
 import SideDrawer from '../Navigation/SideDrawer/SideDrawer';
 

@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import CustomWrapper from '../../../hoc/CustomWrapper';
+import CustomWrapper from '../../../hoc/CustomWrapper/CustomWrapper';
 import Button from '../../UI/Button/Button';
 
 class OrderSummary extends Component {
