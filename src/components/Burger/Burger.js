@@ -17,6 +17,7 @@ const burger = (props) => {
     //     }
     // );
 
+ 
     let transformedIngredients = Object.keys(props.ingredients)  
     .map(
         (ingredientKey) => {         
